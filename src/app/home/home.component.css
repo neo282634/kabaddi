@@ -1,0 +1,7 @@
+.carousel-indicators .active {
+    width: 30px !important;
+    height: 4px !important;
+    margin: 0;
+    background-color: black;
+}
+  
